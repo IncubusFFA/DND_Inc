@@ -8,77 +8,63 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b434c9356c828773",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ДНД/0бщий лор/Власть.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Власть"
-            }
-          },
-          {
-            "id": "890bed82bdca87b4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ДНД/4.Замок Ось Забвения/4.1 Замок Ось Забвения.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "4.1 Замок Ось Забвения"
-            }
-          },
-          {
-            "id": "462351c8381f5f53",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ДНД/0бщий лор/Власть.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Власть"
-            }
-          },
-          {
-            "id": "ac26ebfa0f942da1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ДНД/0бщий лор/Всякая всячина/Легенды.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Легенды"
-            }
-          },
-          {
-            "id": "673c8dcb8d813069",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ДНД/4.Замок Ось Забвения/Подземелье.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Подземелье"
-            }
-          },
-          {
             "id": "361669adb13c0917",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ДНД/5.Нападение гулей/Упыри.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Упыри"
+            }
+          },
+          {
+            "id": "db3f44cf9982f724",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ДНД/общее/Места.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Места"
+            }
+          },
+          {
+            "id": "49edcdba4dcee176",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ДНД/общее/ПерсонажиNPC.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ПерсонажиNPC"
+            }
+          },
+          {
+            "id": "6abad6a7ec403ff7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ДНД/5.Нападение гулей/5. Токийский гуль.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "5. Токийский гуль"
+            }
+          },
+          {
+            "id": "3dd53397d538e80c",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -88,7 +74,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -245,24 +231,27 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "361669adb13c0917",
+  "active": "6abad6a7ec403ff7",
   "lastOpenFiles": [
+    "ДНД/общее/ПерсонажиNPC.md",
+    "ДНД/5.Нападение гулей/5. Токийский гуль.md",
+    "ДНД/5.Нападение гулей/Упыри.md",
+    "ДНД/общее/Места.md",
+    "ДНД/3.Похищение Фелли/3.Похищение Фелли сюжет.md",
+    "ДНД/5.Нападение гулей",
     "ДНД/0бщий лор/Власть.md",
     "ДНД/0бщий лор/Всякая всячина/Истории.md",
     "ДНД/0бщий лор/Всякая всячина/Легенды.md",
     "ДНД/0бщий лор/Всякая всячина/Летоисчесление.md",
     "ДНД/0бщий лор/Лор.md",
     "ДНД/4.Замок Ось Забвения/4.1 Замок Ось Забвения.md",
-    "ДНД/общее/ПерсонажиNPC.md",
     "ДНД/раскидать/Идеи.md",
     "ДНД/4.Замок Ось Забвения/Подземелье.md",
     "ДНД/0бщий лор/Фракции и силы.md",
     "ДНД/0бщий лор/Магия и аномалии.md",
     "ДНД/0бщий лор/Карта.md",
     "ДНД/0бщий лор/Всякая всячина",
-    "ДНД/общее/Места.md",
     "ДНД/общее/Предметы (артефакты).md",
-    "ДНД/3.Похищение Фелли/3.Похищение Фелли сюжет.md",
     "ДНД/общее/О игроках.md",
     "ДНД/0бщий лор/9461490b-6234-4c79-b5e2-e4677293b4e0.png",
     "ДНД/resources/9461490b-6234-4c79-b5e2-e4677293b4e0.png",
@@ -280,7 +269,6 @@
     "ДНД/общее",
     "ДНД/2.Тайна деревни Листограй культ Семени Земли",
     "ДНД/1.Город Виндхольм Стычка с гоблинами",
-    "resourse/Без названия.md",
-    "ДНД/resources"
+    "resourse/Без названия.md"
   ]
 }
